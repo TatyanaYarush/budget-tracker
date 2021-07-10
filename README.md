@@ -1,6 +1,6 @@
 # budget-tracker
 
-Online/Offline Budget Trackers
+PWA: Online/Offline Budget Trackers
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![npm](https://img.shields.io/npm/v/npm?color=orange&logo=npm)
@@ -63,7 +63,6 @@ npm i compression
 <p>
 <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
 <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?&style=for-the-badge"/>
 <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
