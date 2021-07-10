@@ -1,6 +1,6 @@
 # budget-tracker
 
-PWA: Online/Offline Budget Trackers
+PWA (Progressive web apps): Online/Offline Budget Trackers
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 ![npm](https://img.shields.io/npm/v/npm?color=orange&logo=npm)
@@ -85,7 +85,11 @@ npm i compression
 ```
 
 ### :information_source: Resource 
+- [PWAs](https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps)
 - [Measure performance with the RAIL model](https://web.dev/rail/)
+- [IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
+- [Webmanifest](https://developer.mozilla.org/en-US/docs/Web/Manifest)
+- [Google Offline Cookbook](https://web.dev/offline-cookbook/)
 - [Google Lighthouse](https://developers.google.com/web/tools/lighthouse/)
 - [Audit the Performance of Your Web Application](https://developers.google.com/web/fundamentals/performance/audit/)
 - [Set Up MongoDB Atlas](https://carleton.bootcampcontent.com/carleton-university/carl-ott-fsf-pt-02-2021-u-c/blob/master/18-NoSQL/04-Important/MongoAtlas-Setup.md)
