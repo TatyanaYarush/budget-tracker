@@ -57,7 +57,7 @@ npm i compression
 
 ## Screenshots
 Budget Tracker App:
-![Budget Tracker App](https://user-images.githubusercontent.com/70031550/125373312-e4c6f680-e352-11eb-9740-03c2e0d24b62.JPG)
+![Budget Tracker App](https://user-images.githubusercontent.com/70031550/125374402-f1e4e500-e354-11eb-8d3b-9a0d199430be.JPG)
 
 Manifest
 ![screenshot_ManifestIcons](https://user-images.githubusercontent.com/70031550/125373329-ef818b80-e352-11eb-86e6-e1a2d0203cc4.JPG)
