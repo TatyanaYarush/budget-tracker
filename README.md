@@ -1,4 +1,4 @@
-# budget-tracker
+# budget-tracker app
 
 PWA (Progressive web apps): Online/Offline Budget Trackers
 
@@ -11,7 +11,7 @@ PWA (Progressive web apps): Online/Offline Budget Trackers
 
 Click here to open site:
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](...salty-lowlands-18483)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://salty-lowlands-18483.herokuapp.com/)
 
  ## Table of Contents
 - [Introduction](#introduction)
@@ -56,7 +56,13 @@ npm i compression
 ```
 
 ## Screenshots
+Budget Tracker App:
+![Budget Tracker App](https://user-images.githubusercontent.com/70031550/125373312-e4c6f680-e352-11eb-9740-03c2e0d24b62.JPG)
 
+Manifest
+![screenshot_ManifestIcons](https://user-images.githubusercontent.com/70031550/125373329-ef818b80-e352-11eb-86e6-e1a2d0203cc4.JPG)
+
+ - YouTube Video: [DemoVideo](https://www.youtube.com/watch?v=lpOAFKDPH8U)
 
 ## Dependencies & Technologies
 
